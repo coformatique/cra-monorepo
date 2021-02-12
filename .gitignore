@@ -30,3 +30,10 @@ localhost.pem
 
 # apollo
 apollo.config.js
+
+# monorepo-template:
+storybook-static
+lib
+lib-esm
+*.tsbuildinfo
+dist
